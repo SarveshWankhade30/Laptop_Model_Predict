@@ -1,0 +1,96 @@
+Brand,Processor,RAM,Storage,Laptop_Model
+Dell,Intel i5,8,256,Dell-Inspiron-5501
+HP,Intel i7,16,512,HP-Pavilion-15-cs
+Lenovo,Intel i3,4,128,Lenovo-IdeaPad-3-15
+Apple,M1,8,256,Apple-MacBook-Air-M1
+Acer,AMD Ryzen 5,8,512,Acer-Aspire-5-R5
+Asus,Intel i7,16,1024,Asus-VivoBook-S15
+MSI,Intel i9,32,2048,MSI-GS66-Stealth
+Razer,Intel i7,16,512,Razer-Blade-15
+Microsoft,Intel i5,8,256,Microsoft-Surface-Laptop-4
+Samsung,AMD Ryzen 7,16,512,Samsung-Galaxy-Book-Pro
+Dell,Intel i3,4,256,Dell-Vostro-3400
+HP,Intel i5,8,512,HP-Envy-13
+Lenovo,Intel i7,16,1024,Lenovo-ThinkPad-X1-Carbon
+Apple,M2,16,512,Apple-MacBook-Pro-14
+Acer,Intel i5,8,256,Acer-Spin-3
+Asus,AMD Ryzen 7,16,1024,Asus-ROG-Zephyrus-G14
+MSI,Intel i7,16,1024,MSI-Prestige-14
+Razer,Intel i9,32,2048,Razer-Blade-Stealth-13
+Microsoft,Intel i7,16,512,Microsoft-Surface-Pro-7
+Samsung,Intel i5,8,256,Samsung-Notebook-9
+Dell,AMD Ryzen 5,8,512,Dell-G5-15
+HP,Intel i3,4,128,HP-Stream-14
+Lenovo,AMD Ryzen 3,8,256,Lenovo-Flex-5
+Apple,M1,16,512,Apple-MacBook-Air-M1-16GB
+Acer,Intel i7,16,1024,Acer-Predator-Helios-300
+Asus,Intel i5,8,512,Asus-ZenBook-14
+MSI,AMD Ryzen 7,16,1024,MSI-Bravo-15
+Razer,Intel i7,16,512,Razer-Book-13
+Microsoft,Intel i5,8,256,Microsoft-Surface-Laptop-Go
+Samsung,AMD Ryzen 5,8,256,Samsung-Galaxy-Book-Flex
+Dell,Intel i9,32,2048,Dell-XPS-17
+HP,Intel i7,16,512,HP-Omen-15
+Lenovo,Intel i5,8,256,Lenovo-Legion-5
+Apple,M2,16,1024,Apple-MacBook-Pro-16
+Acer,Intel i3,4,128,Acer-Chromebook-Spin
+Asus,AMD Ryzen 3,8,256,Asus-ExpertBook-B9
+MSI,Intel i5,8,512,MSI-Summit-E14
+Razer,Intel i7,16,1024,Razer-Blade-17
+Microsoft,Intel i3,4,128,Microsoft-Surface-Go-2
+Samsung,Intel i7,16,512,Samsung-Notebook-7-Spin
+Dell,Intel i5,8,256,Dell-Inspiron-14
+HP,AMD Ryzen 5,8,512,HP-Envy-x360
+Lenovo,Intel i7,32,2048,Lenovo-ThinkPad-P1
+Apple,M1,8,256,Apple-MacBook-Air-M1-Base
+Acer,Intel i5,8,256,Acer-TravelMate-P6
+Asus,Intel i9,32,2048,Asus-ROG-Strix-G15
+MSI,AMD Ryzen 5,8,512,MSI-GF65-Thin
+Razer,Intel i7,16,1024,Razer-Blade-Advanced
+Microsoft,Intel i7,16,512,Microsoft-Surface-Laptop-3
+Samsung,Intel i3,4,128,Samsung-Chromebook-4+
+Dell,AMD Ryzen 7,16,1024,Dell-G7-15
+HP,Intel i5,8,256,HP-15-dy
+Lenovo,Intel i3,4,128,Lenovo-IdeaPad-Flex-3
+Apple,M2,32,2048,Apple-MacBook-Pro-2023
+Acer,AMD Ryzen 7,16,512,Acer-Nitro-5
+Asus,Intel i5,8,256,Asus-VivoBook-15
+MSI,Intel i9,32,2048,MSI-GT76-Titan
+Razer,Intel i7,16,512,Razer-Blade-14
+Microsoft,Intel i5,8,256,Microsoft-Surface-Pro-X
+Samsung,AMD Ryzen 3,4,128,Samsung-Chromebook-Plus
+Dell,Intel i7,16,512,Dell-XPS-13
+HP,Intel i9,32,2048,HP-ZBook-Firefly
+Lenovo,AMD Ryzen 5,8,512,Lenovo-Legion-7
+Apple,M1,8,256,Apple-MacBook-Air-M1-2020
+Acer,Intel i5,8,256,Acer-Aspire-7
+Asus,Intel i7,16,1024,Asus-TUF-Gaming-F15
+MSI,AMD Ryzen 7,16,1024,MSI-Alpha-15
+Razer,Intel i7,16,512,Razer-Blade-Studio-Edition
+Microsoft,Intel i3,4,128,Microsoft-Surface-Go
+Samsung,Intel i5,8,512,Samsung-Notebook-Flash
+Dell,Intel i3,4,256,Dell-Latitude-3410
+HP,AMD Ryzen 3,4,128,HP-14-cf
+Lenovo,Intel i5,8,256,Lenovo-Yoga-C940
+Apple,M2,16,512,Apple-MacBook-Air-M2
+Acer,Intel i7,16,512,Acer-Predator-Helios-500
+Asus,Intel i9,32,2048,Asus-ROG-Zephyrus-Duo
+MSI,Intel i5,8,512,MSI-Modern-14
+Razer,Intel i7,16,1024,Razer-Book-14
+Microsoft,Intel i7,16,512,Microsoft-Surface-Laptop-Studio
+Samsung,AMD Ryzen 5,8,256,Samsung-Galaxy-Book-Ion
+Dell,Intel i5,8,512,Dell-Inspiron-16
+HP,Intel i7,16,1024,HP-Omen-17
+Lenovo,Intel i3,4,128,Lenovo-IdeaPad-Slim-7
+Apple,M1,8,256,Apple-MacBook-Air-M1-13inch
+Acer,AMD Ryzen 7,16,512,Acer-Nitro-7
+Asus,Intel i5,8,256,Asus-ExpertBook-B1
+MSI,Intel i9,32,2048,MSI-GT75-Titan
+Razer,Intel i7,16,512,Razer-Blade-15-Studio
+Microsoft,Intel i5,8,256,Microsoft-Surface-Pro-8
+Samsung,Intel i7,16,512,Samsung-Notebook-Plus
+Dell,Intel i3,4,128,Dell-Vostro-5490
+HP,AMD Ryzen 5,8,512,HP-Pavilion-x360
+Lenovo,Intel i7,16,1024,Lenovo-ThinkPad-T14
+Apple,M2,16,512,Apple-MacBook-Pro-13
+Acer,Intel i5,8,256,Acer-Chromebook-514
